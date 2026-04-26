@@ -26,7 +26,7 @@ Simple 2-player Rock Paper Scissors game built with Python. Challenge your frien
 - *Python 3* - Core game logic, no external libraries needed
 
 📸 Screenshot
-![Gameplay](gameplay.png)
+![Gameplay](gameplay.PNG)
 
 👨‍💻 Author
 *Ashraf* - https://github.com/Ashraf-Dev-stack
